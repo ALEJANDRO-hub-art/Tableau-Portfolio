@@ -14,7 +14,7 @@ I am a data analyst with a strong analytical mindset who turns complex business 
 
 ## Projects
 ### 1. Churn Rate Dashboard
-Tableau analysis of Churn Rate Analytics data focusing on Call Center’s Weekly Performance.
+Tableau analysis of Telecomunications customer data focusing on Churn Rate Analytics.
 
 ### Tableau Features Used:
 - Data Source/Pane: data cleaning and transformation
@@ -24,26 +24,25 @@ Tableau analysis of Churn Rate Analytics data focusing on Call Center’s Weekly
 ### Business Insights Delivered:
 - Churn rate distribution and contract types of churn analysis
 - Churn rate by contract, payment method, monthly charges and tenure
-- Call Center Data analysis by churn rate
+- Telco customer data analysis by churn rate
 
 [📁 View Project](./Churn%20Rate%20Analysis/)
 
 
-### 2. Final Project - KPI Dashboard
-Power BI financial performance analysis for a multinational bicycle manufacturer across multiple regions. DO THIS
+### 2. Final Project - Call Center KPI Dashboard
+Tableau Call Center performance analysis for different agents on Weekly Performance.
 
-**Tableau Features Used:** DO THIS
-- Power Query for combining 2022-2023 datasets
-- Time intelligence functions and date hierarchies
-- Advanced DAX calculations for profit analysis
-- Interactive navigation with buttons
-- Multiple chart types: funnel, line, area, column charts
+**Tableau Features Used:** 
+- Data Source/Pane: data cleaning and transformation
+- Data Source/Pane: data connection and integration
+- Interactive visuals: KPIs, scatter, stacked bars
 
 **Business Insights Delivered:** DO THIS
-- Sales trends and seasonal patterns
-- Product performance by region and segment
-- Discount impact analysis
-- Cost efficiency identification
-
+- Call volume
+- Satisfaction ratings
+- Speed of answer
+- Overall and individual resolution rates
+- Inbound calls per day
+- Resolved calls
 
 [📁 View Project](./Final%20Project%20-%20KPI%20Dashboard/)
