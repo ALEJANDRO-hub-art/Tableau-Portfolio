@@ -45,4 +45,5 @@ Power BI financial performance analysis for a multinational bicycle manufacturer
 - Discount impact analysis
 - Cost efficiency identification
 
-[📁 View Project](./Financial%20Analysis/)
+
+[📁 View Project](./Final%20Project%20-%20KPI%20Dashboard/)
