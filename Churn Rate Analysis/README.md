@@ -24,7 +24,7 @@ The Telco Customer Churn dataset contains information on customers' churn detail
 
 ### Data View 
 * Displayed the churn per different payment methods (Bank Transfer, Credit Card, Electronic Check and Mailed Check) and their respective counts on each using cards.
-* Displayed total vs monthly charges using scatter visuals.
+* Displayed the churn based on total vs monthly charges using scatter visuals.
 * Added a tenure churn count using stacked bar charts.
 * Showed the churn based on contract type with their respective counts using a stacked bar charts.
 
