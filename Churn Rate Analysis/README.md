@@ -39,5 +39,6 @@ Visual Insights (Power BI Reports)
 * Displayed the Number of Customers by Age Group in a clustered column chart.
 * Added the Company Name and Logo to the report using a text box visual.
 
-<img width="1366" height="768" alt="Churn Rate Tableau image" src="https://github.com/user-attachments/assets/a3f02a33-21c0-418f-8e4d-7746aaa21fc9" />
+<img width="1130" height="552" alt="Churn Rate Tableau image" src="https://github.com/user-attachments/assets/17c7d4bf-3014-4ae1-9a32-c57545d467ef" />
+
 
