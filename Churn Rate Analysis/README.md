@@ -1,4 +1,4 @@
-# Banking Customer Analysis
+# Churn Rate Analysis
 
 ## Project Overview
 
