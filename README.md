@@ -27,3 +27,22 @@ Tableau analysis of Churn Rate Analytics data focusing on Call Center’s Weekly
 - Call Center Data analysis by churn rate
 
 [📁 View Project](./Churn%20Rate%20Analysis/)
+
+
+### 2. Final Project - KPI Dashboard
+Power BI financial performance analysis for a multinational bicycle manufacturer across multiple regions. DO THIS
+
+**Tableau Features Used:** DO THIS
+- Power Query for combining 2022-2023 datasets
+- Time intelligence functions and date hierarchies
+- Advanced DAX calculations for profit analysis
+- Interactive navigation with buttons
+- Multiple chart types: funnel, line, area, column charts
+
+**Business Insights Delivered:** DO THIS
+- Sales trends and seasonal patterns
+- Product performance by region and segment
+- Discount impact analysis
+- Cost efficiency identification
+
+[📁 View Project](./Financial%20Analysis/)
