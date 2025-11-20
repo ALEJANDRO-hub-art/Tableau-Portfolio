@@ -38,3 +38,5 @@ Visual Insights (Power BI Reports)
 * Visualized Total Balance Amounts by Job Classification and State in a stacked area chart.
 * Displayed the Number of Customers by Age Group in a clustered column chart.
 * Added the Company Name and Logo to the report using a text box visual.
+
+<img width="1366" height="768" alt="HR Dashboard image" src="https://github.com/user-attachments/assets/da85f7d9-0fd3-4c5b-973d-c05e124e1127" />
