@@ -26,4 +26,4 @@ Tableau analysis of Churn Rate Analytics data focusing on Call Center’s Weekly
 - Churn rate by contract, payment method, monthly charges and tenure
 - Call Center Data analysis by churn rate
 
-[📁 View Project](./HR%20Analysis/)
+[📁 View Project](./Churn%20Rate%20Analysis/)
